@@ -6,3 +6,4 @@ Git 1. gun 5. deneme
 Git 1. gun 6. deneme
 Pelin branchi yeni ekleme
 git 2. gun 1. deneme
+github'dan ekleme
